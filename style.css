@@ -7,5 +7,13 @@ html{
     font-size: 50;
 }
 .room-headings{
-
+    font-family: serif;
+}
+.house-items{
+    border-style: solid;
+    border-width: 1px;
+    border-color: blue;
+    padding: 20px;
+    border-radius: 8px;
+    margin: 4px
 }
